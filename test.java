@@ -1,6 +1,5 @@
 public class test{
     public static void msin(String[] args){
-        System.out.println("Hello World");
-        System.out.println("Hellow from github3");
+        System.out.println("Hello from github");
     }
 }
